@@ -14,7 +14,7 @@ function App() {
     if(mode === 'light')
     {
       setmode('dark');
-      document.body.style.backgroundColor = 'grey';
+      document.body.style.backgroundColor = '#030a3b';
       // document.body.style.color = 'white';
       
     }
